@@ -1,0 +1,15 @@
+{
+  "name": "mockLandingPage",
+  "version": "1.0.0",
+  "description": "mock langing page of iTunes",
+  "main": "index.js",
+  "homepage": "https://moneer-alasmar.github.io/mockLandingPage",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
